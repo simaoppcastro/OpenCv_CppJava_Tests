@@ -1,2 +1,3 @@
-# dirsppc-opencv_c-
-Opencv_c++
+# OpenCv_CppJava_Tests
+
+Opencv Test in C++ and Java (JavaCV)
